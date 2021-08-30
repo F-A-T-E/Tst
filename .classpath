@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="D:/software/apache-maven-3.6.3/repository/com/google/guava/guava/18.0/guava-18.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/software/apache-maven-3.6.3/repository/org/projectlombok/lombok/1.16.22/lombok-1.16.22.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-11.0.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="D:/software/apache-maven-3.6.3/repository/redis/clients/jedis/3.1.0/jedis-3.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/software/apache-maven-3.6.3/repository/org/springframework/data/spring-data-redis/1.4.2.RELEASE/spring-data-redis-1.4.2.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/software/apache-maven-3.6.3/repository/org/apache/commons/commons-pool2/2.7.0/commons-pool2-2.7.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/software/apache-maven-3.6.3/repository/junit/junit/4.8.2/junit-4.8.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/lpf18/Downloads/commons-lang3-3.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

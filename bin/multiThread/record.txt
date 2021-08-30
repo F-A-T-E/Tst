@@ -1,0 +1,18 @@
+
+CAS:   compare and swap 
+		compare and exchange
+		
+		
+		lock   cmpxchg  指令    非原子性
+		
+		
+		jol   java object  layout
+
+maven:		
+		org.openjdk,jol
+		jol-core
+		0.9
+		
+		
+		
+		
